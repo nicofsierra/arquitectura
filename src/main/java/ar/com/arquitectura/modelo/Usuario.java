@@ -22,15 +22,19 @@ public class Usuario {
 	@OneToMany(mappedBy="usuario")
 	private List<Imagenes> imagenes = new ArrayList<>();
 	
+	@OneToMany(mappedBy="usuario")
+	private List<Contacto> contacto = new ArrayList<>();
+	
 	public Usuario(){}
 
-	public Usuario(Long id, String email, String password, Boolean adm, List<Imagenes> imagenes) {
+	public Usuario(Long id, String email, String password, Boolean adm, List<Imagenes> imagenes,List<Contacto> contacto) {
 		super();
 		this.id = id;
 		this.email = email;
 		this.password = password;
 		this.adm = adm;
 		this.imagenes = imagenes;
+		this.contacto = contacto;
 	}
 
 	public Long getId() {
@@ -72,5 +76,15 @@ public class Usuario {
 	public void setImagenes(List<Imagenes> imagenes) {
 		this.imagenes = imagenes;
 	}
+
+	public List<Contacto> getContacto() {
+		return contacto;
+	}
+
+	public void setContacto(List<Contacto> contacto) {
+		this.contacto = contacto;
+	}
+	
+	
 	
 }

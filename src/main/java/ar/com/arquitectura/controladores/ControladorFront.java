@@ -12,5 +12,15 @@ public class ControladorFront {
 	{
 		return new ModelAndView("index");
 	}
+	
+	@RequestMapping(path="index")
+	public ModelAndView irAIndex(){
+		return new ModelAndView("index");
+	}
+	
+	@RequestMapping(path="/obras")
+	public ModelAndView irAObras(){
+		return new ModelAndView("obras");
+	}
 
 }

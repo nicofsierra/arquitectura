@@ -2,9 +2,22 @@
 
 img{
 	display: inline;
-	margin-left: 45%;
+	/*margin-left: 45%;*/
 }
 
 h1{
 	display: inline;
+	font-family: 'Dosis', sans-serif; 
+	font-size: 60px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+footer{
+	position: absolute;
+	top: 90%;
+	left: 30%;
+	right: 30%;
 }

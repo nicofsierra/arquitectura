@@ -4,6 +4,7 @@
 	<groupId>arquitectura</groupId>
 	<artifactId>arquitectura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<build>
 		<resources>
 			<resource>
@@ -25,6 +26,14 @@
 				<configuration>
 					<source>1.7</source>
 					<target>1.7</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.4</version>
+				<configuration>
+					<warSourceDirectory>src/main/webapp</warSourceDirectory>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -155,5 +164,19 @@
 			<artifactId>javax.inject</artifactId>
 			<version>1</version>
 		</dependency>
+		<dependency>
+                <groupId>com.sun.mail</groupId>
+                <artifactId>javax.mail</artifactId>
+                <version>1.6.0</version>
+        </dependency>
+        <!-- Java Mail Dependency -->
+	        <dependency>
+	            <groupId>javax.mail</groupId>
+	            <artifactId>javax.mail-api</artifactId>
+	            <version>1.5.5</version>
+	        </dependency>
 	</dependencies>
+	
+            
+        
 </project>

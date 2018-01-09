@@ -26,7 +26,23 @@
 	<context:component-scan base-package="ar.com.arquitectura.controladores" />
 	<context:component-scan base-package="ar.com.arquitectura.dao" />
 	<context:component-scan base-package="ar.com.arquitectura.servicios" />
-	
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+	    <!-- SMTP settings -->
+	    <property name="host" value="smtp.gmail.com" />
+	    <property name="port" value="587" />
+	    <property name="username" value="javapruebaenvio@gmail.com" />
+	    <property name="password" value="ciclon18" />
+	    <property name="javaMailProperties">
+	        <!-- additional properties specific to JavaMail -->
+	        <props>
+	            <prop key="mail.transport.protocol">smtp</prop>
+	            <prop key="mail.smtp.auth">true</prop>
+	            <prop key="mail.smtp.starttls.enable">true</prop>
+	        </props>
+	    </property>
+	</bean>
 
 </beans>
+
+
 

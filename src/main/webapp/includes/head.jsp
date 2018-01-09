@@ -19,6 +19,8 @@
 <!-- Font Awesome CSS -->
 <link href="css/font-awesome.css" rel="stylesheet">
 <link href="css/font-awesome.min.css" rel="stylesheet">
+<!--  Fuente Dosis -->
+<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet"> 
 <!-- Estilo -->
 <link href="css/estilos.css" rel="stylesheet">
 <!-- Titulo -->
