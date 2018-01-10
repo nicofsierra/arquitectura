@@ -44,9 +44,9 @@
 	</div>
 	<footer>
 		<div class="panel-footer">
-			<h5 style="margin-left: 30%;">Correo electr&oacutenico:
+			<h5  >Correo electr&oacutenico:
 				estudio.greco@live.com.ar</h5>
-			<h5 style="margin-left: 30%;">Tel&eacutefono: 11 - 6041 - 4847</h5>
+			<h5 >Tel&eacutefono: 11 - 6041 - 4847</h5>
 		</div>
 	</footer>
 

@@ -60,7 +60,7 @@
 					</div>
 
 					<div class="item">
-						<img src="img/fotosvivienda/SAM_2769.JPG" alt="imagen3">
+						<img src="img/fotosvivienda/SAM_3190.JPG" alt="imagen3">
 						<div class="carousel-caption">
 							<h3>Vivienda Unifamiliar</h3>
 							<p>Tokio 2950 - Isidro Casanova - Sup. cubierta 280 m2</p>
@@ -87,9 +87,9 @@
 	</div>
 	<footer>
 		<div class="panel-footer">
-			<h5 style="margin-left: 30%;">Correo electr&oacutenico:
+			<h5  >Correo electr&oacutenico:
 				estudio.greco@live.com.ar</h5>
-			<h5 style="margin-left: 30%;">Tel&eacutefono: 11 - 6041 - 4847</h5>
+			<h5 >Tel&eacutefono: 11 - 6041 - 4847</h5>
 		</div>
 	</footer>
 

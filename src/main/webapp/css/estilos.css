@@ -18,6 +18,18 @@ h1{
 footer{
 	position: absolute;
 	top: 90%;
-	left: 30%;
-	right: 30%;
+	left:5%;
+	right:5%;
+	
+}
+
+.panel-footer{
+	border: 0px;
+	background-color: white;
+	position: fixed;
+	left: 35%;
+}
+
+.texto-footer{
+	left: 40%;
 }
