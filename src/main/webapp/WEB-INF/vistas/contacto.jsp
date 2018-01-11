@@ -31,7 +31,7 @@
 			</div>
 		</nav>
 
-		<section>
+		<section class="formulario-centro">
 			<form:form action="procesar-contacto" modelAttribute="contacto"
 				method="POST">
 
@@ -54,8 +54,8 @@
 				<div class="form-group row">
 					<div class="col-xs-4">
 						<label for="comentario">Comentario</label>
-						<form:textarea path="comentario" rows="10" cols="100"
-							name="comentario" id="comentario" />
+						<form:textarea path="comentario" rows="5" cols="50"
+							name="comentario" id="comentario" maxlength="250" />
 					</div>
 				</div>
 
