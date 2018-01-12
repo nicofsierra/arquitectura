@@ -1,10 +1,10 @@
 <div class="row">
 	<h3>Vivienda Unifamiliar</h3>
-	<p>Tokio 2950 - Isidro Casanova - Sup. cubierta 280 m2</p>
+	<p>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</p>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/DSC02136.JPG"> <img
-				src="img/fotosvivienda/DSC02136.JPG" alt="Imagen0"
+			<a href="img/fotos2/frente.jpg"> <img
+				src="img/fotos2/frente.jpg" alt="Imagen0"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>
@@ -14,8 +14,8 @@
 	</div>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/DSC02825.JPG"> <img
-				src="img/fotosvivienda/DSC02825.JPG" alt="Imagen1"
+			<a href="img/fotos2/derecha.jpg"> <img
+				src="img/fotos2/derecha.jpg" alt="Imagen1"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>
@@ -25,8 +25,8 @@
 	</div>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/SAM_2769.JPG"> <img
-				src="img/fotosvivienda/SAM_2769.JPG" alt="Imagen2"
+			<a href="img/fotos2/izquierda.jpg"> <img
+				src="img/fotos2/izquierda.jpg" alt="Imagen2"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>
@@ -36,8 +36,8 @@
 	</div>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/SAM_3190.JPG"> <img
-				src="img/fotosvivienda/SAM_3190.JPG" alt="Imagen3"
+			<a href="img/fotos2/contrafrente.jpg"> <img
+				src="img/fotos2/contrafrente.jpg" alt="Imagen3"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>
@@ -47,8 +47,8 @@
 	</div>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/SAM_3195.JPG"> <img
-				src="img/fotosvivienda/SAM_3195.JPG" alt="Imagen4"
+			<a href="img/fotos2/pers3.jpg"> <img
+				src="img/fotos2/pers3.jpg" alt="Imagen4"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>
@@ -58,8 +58,8 @@
 	</div>
 	<div class="col-md-2">
 		<div class="thumbnail">
-			<a href="img/fotosvivienda/SAM_3197.JPG"> <img
-				src="img/fotosvivienda/SAM_3197.JPG" alt="Imagen5"
+			<a href="img/fotos2/pers4.jpg"> <img
+				src="img/fotos2/pers4.jpg" alt="Imagen5"
 				style="width: 100%">
 				<div class="caption">
 					<p></p>

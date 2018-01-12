@@ -47,13 +47,14 @@
 						<img src="img/fotos/4.jpg" alt="imagen1" width="600" heght="600">
 						<div class="carousel-caption">
 							<h3>Vivienda Unifamiliar</h3>
-							<p>Club de Campo Las Perdices - Virrey del Pino - La Matanza - Sup. cubierta 260 m2</p>
+							<p>Club de Campo Las Perdices - Virrey del Pino - La Matanza
+								- Sup. cubierta 260 m2</p>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="img/fotos2/pers3.jpg" alt="imagen1">
-						<div class="carousel-caption"> 
+						<div class="carousel-caption">
 							<h3>Vivienda Unifamiliar</h3>
 							<p>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</p>
 						</div>
@@ -81,17 +82,16 @@
 				</div>
 			</div>
 		</section>
-
+		<footer>
+			<div class="panel-footer">
+				<h5>Correo electr&oacutenico: estudio.greco@live.com.ar</h5>
+				<h5>Tel&eacutefono: 11 - 6041 - 4847</h5>
+			</div>
+		</footer>
 
 
 	</div>
-	<footer>
-		<div class="panel-footer">
-			<h5  >Correo electr&oacutenico:
-				estudio.greco@live.com.ar</h5>
-			<h5 >Tel&eacutefono: 11 - 6041 - 4847</h5>
-		</div>
-	</footer>
+
 
 
 </body>
